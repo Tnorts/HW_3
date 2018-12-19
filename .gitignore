@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+*_old
+*_backup
+Thumbs.db
+.DS_Store
+tmp/
